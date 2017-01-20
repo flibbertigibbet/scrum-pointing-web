@@ -48,19 +48,6 @@ h3 div {
 .tagline-text {
   vertical-align: middle;
 }
-.__slackin {
-  float: right;
-  margin-left: 10px;
-  vertical-align: middle;
-}
-
-.promo {
-  margin-bottom: 0;
-  font-style: italic;
-  padding: 10px;
-  background-color: #ff4020;
-  border-bottom: 5px solid #c00;
-}
 
 a {
   font-weight: bold;
@@ -131,13 +118,6 @@ button:hover {
   color: #ecf0f1;
 }
 
-.gh-fork {
-  position: fixed;
-  top: 0;
-  right: 0;
-  border: 0;
-}
-
 /* dragula-specific example page styles */
 .wrapper {
   display: table;
@@ -192,13 +172,4 @@ button:hover {
   margin: 20px 0;
   display: block;
   text-align: center;
-}
-.slack-join {
-  position: absolute;
-  font-weight: normal;
-  font-size: 14px;
-  right: 10px;
-  top: 50%;
-  margin-top: -8px;
-  line-height: 16px;
 }
